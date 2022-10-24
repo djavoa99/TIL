@@ -21,3 +21,8 @@
 * [생성자 함수에 의한 객체 생성](https://velog.io/@djavoa99/10232022-Today-I-Learned)
 * [함수와 일급 객체](https://velog.io/@djavoa99/10232022-Today-I-Learned)
 * [프로토타입](https://velog.io/@djavoa99/10232022-Today-I-Learned)
+* [strict mode](https://velog.io/@djavoa99/10242022-Today-I-Learned)
+* [빌트인 객체](https://velog.io/@djavoa99/10242022-Today-I-Learned)
+* [this](https://velog.io/@djavoa99/10242022-Today-I-Learned)
+* [실행 컨텍스트](https://velog.io/@djavoa99/10242022-Today-I-Learned)
+* [클로저](https://velog.io/@djavoa99/10242022-Today-I-Learned)
