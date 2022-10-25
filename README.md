@@ -26,3 +26,5 @@
 * [this](https://velog.io/@djavoa99/10242022-Today-I-Learned)
 * [실행 컨텍스트](https://velog.io/@djavoa99/10242022-Today-I-Learned)
 * [클로저](https://velog.io/@djavoa99/10242022-Today-I-Learned)
+* [클래스](https://velog.io/@djavoa99/10252022-Today-I-Learned)
+* [ES6 함수의 추가 기능](https://velog.io/@djavoa99/10252022-Today-I-Learned)
