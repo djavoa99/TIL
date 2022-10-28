@@ -40,3 +40,5 @@
 * [디스트럭처링 할당](https://velog.io/@djavoa99/10272022-Today-I-Learned)
 * [Set과 Map](https://velog.io/@djavoa99/10272022-Today-I-Learned)
 * [브라우저의 렌더링 과정](https://velog.io/@djavoa99/10272022-Today-I-Learned)
+* [DOM](https://velog.io/@djavoa99/10282022-Today-I-Learned
+* [이벤트](https://velog.io/@djavoa99/10282022-Today-I-Learned
