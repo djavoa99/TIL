@@ -50,3 +50,6 @@
 * [제너레이터와 async/await](https://velog.io/@djavoa99/10292022-Today-I-Learned)
 * [에러처리](https://velog.io/@djavoa99/10292022-Today-I-Learned)
 * [모듈](https://velog.io/@djavoa99/10292022-Today-I-Learned)
+
+### 코딩앙마 JavaScript
+* [기초](https://velog.io/@djavoa99/10302022-Today-I-Learned)
