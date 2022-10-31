@@ -53,3 +53,4 @@
 
 ### 코딩앙마 JavaScript
 * [기초](https://velog.io/@djavoa99/10302022-Today-I-Learned)
+* [중급](https://velog.io/@djavoa99/10312022-Today-I-Learned)
