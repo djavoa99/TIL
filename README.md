@@ -5,8 +5,8 @@
 ----------------------------------------------------------------------------------------------------------------------
 
 ### JavaScript
-* [변수](https://velog.io/@djavoa99/10212022-Today-I-Learned)
-* [표현식과 문](https://velog.io/@djavoa99/10212022-Today-I-Learned)
+* [변수](https://velog.io/@djavoa99/JavaScript-%EB%B3%80%EC%88%98)
+* [표현식과 문](https://velog.io/@djavoa99/JavaScript-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8)
 * [데이터 타입](https://velog.io/@djavoa99/10212022-Today-I-Learned)
 * [연산자](https://velog.io/@djavoa99/10212022-Today-I-Learned)
 * [제어문](https://velog.io/@djavoa99/10222022-Today-I-Learned)
