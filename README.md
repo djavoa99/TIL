@@ -7,8 +7,8 @@
 ### JavaScript
 * [변수](https://velog.io/@djavoa99/JavaScript-%EB%B3%80%EC%88%98)
 * [표현식과 문](https://velog.io/@djavoa99/JavaScript-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EB%AC%B8)
-* [데이터 타입](https://velog.io/@djavoa99/10212022-Today-I-Learned)
-* [연산자](https://velog.io/@djavoa99/10212022-Today-I-Learned)
+* [데이터 타입](https://velog.io/@djavoa99/JavaScript-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85)
+* [연산자](https://velog.io/@djavoa99/JavaScript-%EC%97%B0%EC%82%B0%EC%9E%90)
 * [제어문](https://velog.io/@djavoa99/10222022-Today-I-Learned)
 * [타입 변환과 단축 평가](https://velog.io/@djavoa99/10222022-Today-I-Learned)
 * [객체 리터럴](https://velog.io/@djavoa99/10222022-Today-I-Learned)
