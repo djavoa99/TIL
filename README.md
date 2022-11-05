@@ -13,7 +13,7 @@
 * [타입 변환과 단축 평가](https://velog.io/@djavoa99/JavaScript-%ED%83%80%EC%9E%85-%EB%B3%80%ED%99%98%EA%B3%BC-%EB%8B%A8%EC%B6%95-%ED%8F%89%EA%B0%80)
 * [객체 리터럴](https://velog.io/@djavoa99/JavaScript-%EA%B0%9D%EC%B2%B4-%EB%A6%AC%ED%84%B0%EB%9F%B4)
 * [원시 값과 객체의 비교](https://velog.io/@djavoa99/JavaScript-%EC%9B%90%EC%8B%9C-%EA%B0%92%EA%B3%BC-%EA%B0%9D%EC%B2%B4%EC%9D%98-%EB%B9%84%EA%B5%90)
-* [함수](https://velog.io/@djavoa99/10222022-Today-I-Learned)
+* [함수](https://velog.io/@djavoa99/JavaScript-%ED%95%A8%EC%88%98)
 * [스코프](https://velog.io/@djavoa99/10222022-Today-I-Learned)
 * [전역 변수의 문제점](https://velog.io/@djavoa99/10232022-Today-I-Learned)
 * [let, const 키워드와 블록 레벨 스코프](https://velog.io/@djavoa99/10232022-Today-I-Learned)
