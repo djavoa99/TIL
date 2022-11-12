@@ -25,7 +25,7 @@
 * [빌트인 객체](https://velog.io/@djavoa99/JavaScript-%EB%B9%8C%ED%8A%B8%EC%9D%B8-%EA%B0%9D%EC%B2%B4)
 * [this](https://velog.io/@djavoa99/JavaScript-this)
 * [실행 컨텍스트](https://velog.io/@djavoa99/JavaScript-%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8)
-* [클로저](https://velog.io/@djavoa99/10242022-Today-I-Learned)
+* [클로저](https://velog.io/@djavoa99/JavaScript-%ED%81%B4%EB%A1%9C%EC%A0%80)
 * [클래스](https://velog.io/@djavoa99/10252022-Today-I-Learned)
 * [ES6 함수의 추가 기능](https://velog.io/@djavoa99/10252022-Today-I-Learned)
 * [배열](https://velog.io/@djavoa99/10262022-Today-I-Learned)
