@@ -28,7 +28,7 @@
 * [클로저](https://velog.io/@djavoa99/JavaScript-%ED%81%B4%EB%A1%9C%EC%A0%80)
 * [클래스](https://velog.io/@djavoa99/JavaScript-%ED%81%B4%EB%9E%98%EC%8A%A4)
 * [ES6 함수의 추가 기능](https://velog.io/@djavoa99/JavaScript-ES6-%ED%95%A8%EC%88%98%EC%9D%98-%EC%B6%94%EA%B0%80-%EA%B8%B0%EB%8A%A5)
-* [배열](https://velog.io/@djavoa99/10262022-Today-I-Learned)
+* [배열](https://velog.io/@djavoa99/JavaScript-%EB%B0%B0%EC%97%B4)
 * [Number](https://velog.io/@djavoa99/10262022-Today-I-Learned)
 * [Math](https://velog.io/@djavoa99/10262022-Today-I-Learned)
 * [Date](https://velog.io/@djavoa99/10262022-Today-I-Learned)
