@@ -40,7 +40,7 @@
 * [디스트럭처링 할당](https://velog.io/@djavoa99/10272022-Today-I-Learned)
 * [Set과 Map](https://velog.io/@djavoa99/10272022-Today-I-Learned)
 * [브라우저의 렌더링 과정](https://velog.io/@djavoa99/JavaScript-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95)
-* [DOM](https://velog.io/@djavoa99/10282022-Today-I-Learned)
+* [DOM](https://velog.io/@djavoa99/JavaScript-DOM)
 * [이벤트](https://velog.io/@djavoa99/10282022-Today-I-Learned)
 * [타이머](https://velog.io/@djavoa99/10292022-Today-I-Learned)
 * [비동기 프로그래밍](https://velog.io/@djavoa99/10292022-Today-I-Learned)
