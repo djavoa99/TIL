@@ -41,7 +41,7 @@
 * [Set과 Map](https://velog.io/@djavoa99/JavaScript-Set%EA%B3%BC-Map)
 * [브라우저의 렌더링 과정](https://velog.io/@djavoa99/JavaScript-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%EA%B3%BC%EC%A0%95)
 * [DOM](https://velog.io/@djavoa99/JavaScript-DOM)
-* [이벤트](https://velog.io/@djavoa99/10282022-Today-I-Learned)
+* [이벤트](https://velog.io/@djavoa99/JavaScript-%EC%9D%B4%EB%B2%A4%ED%8A%B8)
 * [타이머](https://velog.io/@djavoa99/10292022-Today-I-Learned)
 * [비동기 프로그래밍](https://velog.io/@djavoa99/JavaScript-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
 * [Ajax](https://velog.io/@djavoa99/10292022-Today-I-Learned)
