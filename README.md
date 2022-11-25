@@ -47,7 +47,7 @@
 * [Ajax](https://velog.io/@djavoa99/JavaScript-Ajax)
 * [Rest API](https://velog.io/@djavoa99/JavaScript-REST-API)
 * [프로미스](https://velog.io/@djavoa99/JavaScript-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4)
-* [제너레이터와 async/await](https://velog.io/@djavoa99/10292022-Today-I-Learned)
+* [제너레이터와 async/await](https://velog.io/@djavoa99/JavaScript-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-asyncawait)
 * [에러처리](https://velog.io/@djavoa99/10292022-Today-I-Learned)
 * [모듈](https://velog.io/@djavoa99/10292022-Today-I-Learned)
 
