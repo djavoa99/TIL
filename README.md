@@ -51,6 +51,7 @@
 * [에러처리](https://velog.io/@djavoa99/JavaScript-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC)
 * [모듈](https://velog.io/@djavoa99/JavaScript-%EB%AA%A8%EB%93%88)
 
-### 코딩앙마 JavaScript
-* [기초](https://velog.io/@djavoa99/10302022-Today-I-Learned)
-* [중급](https://velog.io/@djavoa99/10312022-Today-I-Learned)
+### 코딩앙마
+* [자바스크립트 기초](https://velog.io/@djavoa99/%EC%BD%94%EB%94%A9%EC%95%99%EB%A7%88-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EC%B4%88)
+* [자바스크립트 중급](https://velog.io/@djavoa99/%EC%BD%94%EB%94%A9%EC%95%99%EB%A7%88-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B8%89)
+* [리액트](https://velog.io/@djavoa99/%EC%BD%94%EB%94%A9%EC%95%99%EB%A7%88-%EB%A6%AC%EC%95%A1%ED%8A%B8)
